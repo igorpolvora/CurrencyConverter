@@ -1,4 +1,4 @@
-# Currency Converter (Java)
+# Currency Converter
 
 ## 📌 Description
 
